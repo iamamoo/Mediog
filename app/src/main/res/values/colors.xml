@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#FF000000</color>
+    <color name="spannablecolor">#199A8E</color>
+    <color name="red">#FF5C5C</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#183E78</color>
+    <color name="hint">#A1A8B0</color>
+    <color name="textColorOne">#101623</color>
+    <color name="textColorTwo">#717784</color>
+    <color name="splashLineColor">#232B43</color>
+
+</resources>

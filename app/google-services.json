@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "151965630579",
+    "project_id": "mediog-fbeac",
+    "storage_bucket": "mediog-fbeac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151965630579:android:c5b882ad572650ae68ea06",
+        "android_client_info": {
+          "package_name": "com.application.mediog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151965630579-v1dbrcc7952f5utfbp4vspjt2tkmu86b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.application.mediog",
+            "certificate_hash": "93cad432cb9ecfce3cd743454fddf82a3fad195a"
+          }
+        },
+        {
+          "client_id": "151965630579-kkp1hdctiqgt77njhvc1gd2uf1v9k2pp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiFS39PUjsYWCVnM75lMP_Mlgp67WtC4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151965630579-kkp1hdctiqgt77njhvc1gd2uf1v9k2pp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
