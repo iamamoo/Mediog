@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title=""
+        android:id="@+id/home"
+        android:icon="@drawable/ic_newhome"/>
+
+    <item
+        android:title=""
+        android:id="@+id/appoinment"
+        android:icon="@drawable/ic_appointment"/>
+
+    <item
+        android:title=""
+        android:id="@+id/other"
+        android:icon="@drawable/ic_chatgpt"/>
+
+    <item
+        android:title=""
+        android:id="@+id/chat"
+        android:icon="@drawable/ic_message"/>
+
+    <item android:title=""
+        android:id="@+id/profile"
+        android:icon="@drawable/ic_profile"/>
+</menu>

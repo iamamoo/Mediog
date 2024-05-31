@@ -13,6 +13,7 @@ import android.widget.Toast
 import androidx.core.content.ContextCompat
 import com.application.mediog.databinding.ActivitySigninBinding
 import com.application.mediog.utils.DialogsClass
+import com.application.mediog.utils.SharedPrefs
 import com.google.android.material.button.MaterialButton
 import com.google.firebase.auth.FirebaseAuth
 
@@ -109,6 +110,8 @@ class SigninActivity : AppCompatActivity() {
         // Set click listener for the dialog button
         dialogButton.setOnClickListener {
             dialogView.dismiss()
+            val prefs = SharedPrefs()
+            prefs.saveLoginStatus(this@SigninActivity,true)
             startActivity(Intent(this@SigninActivity, MainActivity::class.java))
             finishAffinity()
         }
